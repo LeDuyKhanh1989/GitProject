@@ -1,0 +1,25 @@
+H1{
+    font-size: 40px;
+    color: rgb(72, 72, 244);
+}
+H2{
+    font-size: 20px;
+}
+H3{
+    font-size: 15px;
+}
+p{
+font-size: 15px;
+font-weight: 500;
+}
+li{
+    font-size: 15px;
+    font-weight: 500;
+    }
+ol{
+        font-size: 15px;
+        font-weight: 500;
+ }
+ img{
+    align-items: center;
+ }
